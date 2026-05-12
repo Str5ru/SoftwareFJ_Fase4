@@ -1,0 +1,4 @@
+La duración debe ser mayor a 0
+Error al procesar la reserva
+La duración debe ser mayor a 0
+Error al procesar la reserva
